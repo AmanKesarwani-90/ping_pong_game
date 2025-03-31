@@ -1,4 +1,4 @@
-![photo](https://github.com/user-attachments/assets/db30ba15-db2f-4708-9235-1e5936649950)🚀 **Ping Pong Game with Hand Detection – Real-Time Control Using OpenCV & cvzone**
+🚀 **Ping Pong Game with Hand Detection – Real-Time Control Using OpenCV & cvzone**
 
 This project is an interactive **Ping Pong game** built using **Python**, **OpenCV**, and **cvzone**, where players control the bats with **hand gestures** instead of a keyboard or mouse. The game offers a fun and intuitive experience with **real-time hand tracking** and dynamically increasing ball speed, making it both challenging and engaging. 🎯
 
